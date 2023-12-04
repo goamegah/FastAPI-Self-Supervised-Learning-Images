@@ -1,0 +1,5 @@
+artefacts/LeNet5/*
+artefacts/ResNet18/*
+artefacts/SimCLR/*
+.idea
+__pycache__/
