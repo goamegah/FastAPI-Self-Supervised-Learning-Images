@@ -60,6 +60,9 @@ Api server will be waiting for request (eg. image) send by front (Dash App) and
 will get and process image, feed model, get result from it and finally sent results 
 to the front (dash web app) .
 
+![Alt Text](documentation/dash_screen.png)
+
+
 ## Run API
 Please before going on, make sure having installed ```uvicorn```, ```python-multipart``` and ```torch```.
 If not, you can require librairy by run ```pip install -r requirements.txt```
